@@ -1,5 +1,5 @@
 public class BallTest {
-    public BallTest(){
+    public static void main(String[] args) {
         System.out.println("Ball test");
 
         Ball b1 = new Ball();

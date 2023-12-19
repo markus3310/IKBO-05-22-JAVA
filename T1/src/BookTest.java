@@ -1,5 +1,5 @@
 public class BookTest {
-    public BookTest() {
+    public static void main(String[] args) {
 
         System.out.println("Book test");
 
